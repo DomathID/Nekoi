@@ -1,0 +1,132 @@
+html {
+  background:#e9e9e9;;
+  background-image:url('../images/back.webp');
+  background-size:cover;
+  background-position:center center;
+}
+body {
+  text-align: center;
+  line-height: 1.1;
+}
+.reset-button {
+  font: 400 11px "Open Sans";
+  line-height: 1;
+  background: transparent;
+  border-radius: 10px;
+  border: 2px solid #7289da;
+  color: #7289da;
+  font-size: 1em;
+  padding: 0.5em 0.8em;
+  cursor: pointer;
+}
+.reset-button:hover {
+  background: #7289da;
+  color: #fff;
+}
+.discord-shoutout * {
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+}
+.discord-shoutout {
+  position: fixed;
+  bottom: 2em;
+  right: 1em;
+  width: 300px;
+  z-index: 100;
+  text-align: left;
+  transition: 1s ease;
+  visibility: hidden;
+  opacity: 0;
+  transform: translate(1em, 50px);
+  filter: drop-shadow(10px 8px 0px rgba(0, 0, 0, 0.15));
+}
+.discord-shoutout:hover {
+  filter: drop-shadow(10px 8px 0px rgba(0, 0, 0, 0.25));
+}
+.discord-shoutout.online {
+  opacity: 1;
+  transform: translate(0, 0);
+  visibility: visible;
+}
+.discord-shoutout:after {
+  content: "";
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 50px 50px 0;
+  border-color: transparent #7289da transparent transparent;
+  position: absolute;
+  right: 0;
+  bottom: -25px;
+}
+.discord-shoutout .shoutout-inner {
+  color: #fff;
+  padding: 1em 1.5em 1.5em;
+  transition: box-shadow 0.3s ease;
+  background: transparent;
+  border-radius: 1em / 1em;
+  overflow: hidden;
+  position: relative;
+}
+.discord-shoutout .shoutout-inner:after, .discord-shoutout .shoutout-inner:before {
+  content: "";
+  border-width: 0;
+  position: absolute;
+  box-sizing: border-box;
+  width: 100%;
+  background-color: #7289da;
+  z-index: -1;
+}
+.discord-shoutout .shoutout-inner:after {
+  height: 200%;
+  top: 0;
+  left: -46px;
+  transform: rotate(-18deg);
+}
+.discord-shoutout .shoutout-inner:before {
+  height: calc(100% - 25px);
+  right: 0;
+  top: 0;
+}
+.discord-shoutout .title {
+  display: block;
+  font-size: 1.2em;
+  margin: 0 0 1em 0;
+}
+.discord-shoutout p {
+  font-size: 0.9em;
+  font-weight: 300;
+  margin: 0 0 0.6em 0;
+}
+.discord-shoutout .discord-buttons {
+  margin-top: 1.4em;
+}
+.discord-shoutout .discord-button {
+  padding: 0.6em 1em;
+  color: white;
+  text-decoration: none;
+  background: transparent;
+  border: 0;
+  font-size: 0.9em;
+  cursor: pointer;
+}
+.discord-shoutout .discord-button.discord-primary {
+  border: 2px solid #fff;
+  border-radius: 6px;
+}
+.discord-shoutout .discord-button.discord-primary:hover {
+  background: #fff;
+  color: #7289da;
+}
+.discord-shoutout .discord-button.discord-secondary {
+  color: #fff;
+}
+.discord-shoutout .discord-button.discord-secondary:hover {
+  text-decoration: underline;
+}
+.discord-shoutout img {
+  position: absolute;
+  right: 1em;
+  top: 1em;
+  height: 1.4em;
+}
