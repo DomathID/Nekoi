@@ -1,3 +1,5 @@
+### Nekoi-Bot-Discord
+### Version: 1.0
 ### Hi there 👋
 
 <!--
