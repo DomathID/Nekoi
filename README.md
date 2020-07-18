@@ -1,1 +1,2 @@
-### Nekoi-Bot-Discord ##Version: 1.0
+### Nekoi-Bot-Discord 
+
