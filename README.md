@@ -1,4 +1,5 @@
 ### Nekoi-Bot-Discord v1.0.0
+[![Run on Repl.it](https://repl.it/badge/github/DOMATH69/wibu-bot)](https://repl.it/github/DOMATH69/wibu-bot)
 ![Nekoi-Bot-Image](https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif)
 ### Information
 - This is A Beta Version
