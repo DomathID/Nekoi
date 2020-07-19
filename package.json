@@ -28,7 +28,7 @@
     "node-fetch": "^2.6.0",
     "novelcovid": "^1.2.7",
     "novelcovid-scraper": "^1.2.2",
-    "npm": "^6.14.5",
+    "npm": "^6.14.6",
     "npm-check-updates": "^7.0.1",
     "npm-run-all": "^4.1.5",
     "parse-ms": "^2.1.0",
