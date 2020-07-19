@@ -7,3 +7,13 @@
  ### Information
 - This is A Beta Version
 - This Bot just For Fun
+- Manage Server 
+
+### How to Use 
+- create .env file 
+- add TOKEN='your bot token here'
+- add your package-lock.json 
+-save
+
+### Command Helper
+-help
