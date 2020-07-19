@@ -1,5 +1,4 @@
 ### Nekoi-Bot-Discord v1.0.0
-[![Discord Bots](https://discordbots.org/api/widget/lib/408785106942164992.svg)](https://discordbots.org/bot/408785106942164992)
 <a href="https://github.com/DomathID/Nekoi69/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-AGPL%20v3-lightgray.svg"></a>
 [![Run on Repl.it](https://repl.it/badge/github/DOMATH69/wibu-bot)](https://repl.it/github/DOMATH69/wibu-bot)
 
