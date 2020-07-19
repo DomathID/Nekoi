@@ -16,4 +16,4 @@
 -save
 
 ### Command Helper
--help
+- -help
