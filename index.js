@@ -1,4 +1,3 @@
-
 require('dotenv').config();
 const {Client, Attachment} = require('discord.js');
 const cheerio = require('cheerio');
@@ -77,8 +76,8 @@ bot.on('message', message => {
 
   switch (command) {
     case 'cek': {
-      var ping = Date.now() - message.createdTimestamp + " ms";
-    message.channel.sendMessage("Your ping is `" + `${Date.now() - message.createdTimestamp}` + " ms`");
+    var ping = Date.now() - message.createdTimestamp + " ms";
+    message.channel.send("Ping Signal mu :`" + `${Date.now() - message.createdTimestamp}` + " ms`");
       break;
     }
 case 'about': {
@@ -101,6 +100,24 @@ case 'about': {
          message.channel.send(botembed);
          break;
        }
+       case 'help' : {
+       let botembed = new Discord.MessageEmbed()
+       .setTitle("Nekoi-Command-Help")
+       .setColor('#00CEFF')
+       .setDescription(`Prefix for Command **-**,\n Example: **-help <command>**`)
+       .addFields(
+          { name: '-help', value: 'Help Command, Untuk Bertanya Command Apa Saja Untuk Menjalankan Bot ini.', inline: true },
+          { name: '-cek', value: 'Cek Signal, Untuk Mengecek Berapa Ping Signal.', inline: true },
+         { name: '-meme', value: 'Random Meme, Untuk Menampilkan Meme Secara Random.', inline: true },
+         { name: '-servinfo', value: 'Server Info, Untuk Menampilkan Informasi Server.', inline: true },
+         { name: '-about', value: 'About Bot.', inline: true },
+        )
+       .setFooter("Nekoi-Bot", "https://i.ibb.co/86R9gYn/78549391-p0.png")
+       .setTimestamp()
+       .setThumbnail("https://i.ibb.co/86R9gYn/78549391-p0.png")
+       message.channel.send(botembed);
+break;
+}
     case 'uptime': {
      let days = Math.floor(bot.uptime / 86400000);
       let hours = Math.floor(bot.uptime / 3600000) % 24;
@@ -116,11 +133,8 @@ case 'about': {
     }
     case 'servinfo': {
     const { guild } = message
-
     const { name, region, memberCount, owner, afkTimeout } = guild
     const icon = guild.iconURL()
-  
-
     const embed = new Discord.MessageEmbed()
       .setTitle(`Server info for "${name}"`)
       .setThumbnail(icon)
