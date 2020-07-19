@@ -12,7 +12,7 @@ const TOKEN = process.env.TOKEN;
 bot.login(TOKEN);
 bot.on('ready', () => {
   console.log('Ok Cok Aku Alive');
- bot.user.setActivity('With Domath | $help');
+ bot.user.setActivity('With Domath | -help');
 });
 const fs = require('fs');
 bot.commands = new Discord.Collection();
