@@ -10,8 +10,8 @@
 - Manage Server 
 
 ### How to Use 
-- create .env file 
-- add TOKEN='your bot token here'
+- create `.env` file 
+- add `TOKEN='your bot token here'`
 - add your package-lock.json 
 -save
 
