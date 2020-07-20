@@ -12,7 +12,7 @@
 ### How to Use 
 - create `.env` file 
 - add `TOKEN='your bot token here'`
-- add your 'package-lock.json' 
+- add your `package-lock.json`
 - run
 
 ### Command Helper
