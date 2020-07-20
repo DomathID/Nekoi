@@ -12,8 +12,8 @@
 ### How to Use 
 - create `.env` file 
 - add `TOKEN='your bot token here'`
-- add your package-lock.json 
--save
+- add your 'package-lock.json' 
+- run
 
 ### Command Helper
 - -help
