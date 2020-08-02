@@ -1,6 +1,6 @@
 ### Nekoi-Bot-Discord v1.0.3
-
 Nekoi is a bot that is designed with simple and easy to understand, easy to use too.
+
 <a href="https://saweria.co/domathjav69"><img src="https://img.shields.io/badge/Support-Me!-green.svg" alt="Support Me!"></a>
 <a href="https://github.com/DomathID/Nekoi69/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-AGPL%20v3-lightgray.svg"></a>
 [![CodeFactor](https://www.codefactor.io/repository/github/domathid/nekoi69/badge)](https://www.codefactor.io/repository/github/domathid/nekoi69)
