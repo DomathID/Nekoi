@@ -6,6 +6,7 @@ Nekoi is a bot that is designed with simple and easy to understand, easy to use 
 [![CodeFactor](https://www.codefactor.io/repository/github/domathid/nekoi69/badge)](https://www.codefactor.io/repository/github/domathid/nekoi69)
 <a href="https://github.com/domathid/nekoi69"><img src="https://img.shields.io/badge/code-maintenance-yellow.svg"></a>
 <a href="https://github.com/domathid"><img src="https://img.shields.io/badge/language-JS-blue"></a>
+[![Discord Bots](https://top.gg/api/widget/status/733876789792866345.svg)](https://top.gg/bot/733876789792866345)
 
 ![Nekoi-Bot-Image](https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif)
 
