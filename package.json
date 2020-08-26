@@ -1,23 +1,42 @@
 
 {
   "name": "nekoi-bot",
-  "version": "1.0.0",
-  "description": "Beta",
+  "version": "1.0.4",
+  "description": "An open source bot using discord.js, will include some random features for your faces",
   "main": "index.js",
+  "dependencies": {
+    "apexlegendsjs": "^1.2.1",
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "chalk": "^4.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.1.1",
+    "figlet": "^1.4.0",
+    "fortnite": "^4.3.2",
+    "got": "^10.7.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.7",
+    "node-fetch": "^2.6.0",
+    "random-puppy": "^1.1.0",
+    "valorant": "0.0.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Domath",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domathid/Nekoi.git"
+  },
+  "keywords": [
+    "discord bot",
+    "discord",
+    "mongo"
+  ],
+  "author": "DomathID",
   "license": "ISC",
-  "dependencies": {
-    "@discordjs/uws": "^10.149.0",
-    "cheerio": "^1.0.0-rc.3",
-    "discord.js": "^12.2.0",
-    "dotenv": "^8.2.0",
-    "got": "^11.3.0",
-    "node-fetch": "^2.6.0",
-    "npm": "^6.14.5",
-    "request": "^2.88.2",
-    "zlib-sync": "^0.1.7"
-  }
+  "bugs": {
+    "url": "https://github.com/domathid/Nekoi/issues"
+  },
+  "homepage": "https://github.com/domathid/Nekoi#readme"
 }
