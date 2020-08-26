@@ -1,4 +1,4 @@
-### Nekoi-Bot-Discord v1.0.3
+### Nekoi-Bot-Discord v1.0.4
 Nekoi is a bot that is designed with simple and easy to understand, easy to use too.
 
 <a href="https://saweria.co/domathjav69"><img src="https://img.shields.io/badge/Support-Me!-green.svg" alt="Support Me!"></a>
