@@ -23,4 +23,4 @@ Nekoi is a bot that is designed with simple and easy to understand, easy to use 
 - run
 
 ### Command Helper
-- -help
+- n!help
