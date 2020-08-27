@@ -17,10 +17,10 @@ Nekoi is a bot that is designed with simple and easy to understand, easy to use 
 - Manage Server 
 
 ### How to Use 
-- create `.env` file 
+- create `.env` file, in `name-config` folder.
 - add `TOKEN='your bot token here'`
-- add your `package-lock.json`
-- run
+- run `npm i`
+- run `node index.js`
 
 ### Command Helper
 - n!help
