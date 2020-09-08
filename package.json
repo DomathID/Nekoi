@@ -18,7 +18,7 @@
     "mongoose": "^5.9.7",
     "node-fetch": "^2.6.0",
     "random-puppy": "^1.1.0",
-    "valorant": "0.0.1"
+    "valorant": "0.0.3"
   },
   "devDependencies": {},
   "scripts": {
