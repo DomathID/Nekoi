@@ -18,8 +18,8 @@ Nekoi is a bot that is designed with simple and easy to understand, easy to use 
 
 ### How to Use 
 - create `.env` file, in your server.
-- add `TOKEN='your bot `token` here'`
-- add `mongoDB=' your MongoDB `token` here
+- add `TOKEN='your bot token here'`
+- add `mongoDB='your MongoDB token here'`
 - run `npm i`
 - run `node index.js`
 
@@ -28,5 +28,5 @@ Nekoi is a bot that is designed with simple and easy to understand, easy to use 
 
 ### Join Support Server
 <a href="https://discord.gg/e9bzxXD">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Nekoi Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
