@@ -17,8 +17,9 @@ Nekoi is a bot that is designed with simple and easy to understand, easy to use 
 - Manage Server 
 
 ### How to Use 
-- create `.env` file, in `name-config` folder.
-- add `TOKEN='your bot token here'`
+- create `.env` file, in your server.
+- add `TOKEN='your bot `token` here'`
+- add `mongoDB=' your MongoDB `token` here
 - run `npm i`
 - run `node index.js`
 
