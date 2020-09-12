@@ -23,10 +23,5 @@ Nekoi is a bot that is designed with simple and easy to understand, easy to use 
 - run `npm i`
 - run `node index.js`
 
-### Command Helper
+### Command Help
 - n!help
-
-### Join Support Server
-<a href="https://discord.gg/e9bzxXD">
-  <img align="left" alt="Nekoi Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
