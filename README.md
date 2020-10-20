@@ -10,7 +10,6 @@ Nekoi is a bot that is designed with simple and easy to understand, easy to use 
 [![Discord Bots](https://top.gg/api/widget/lib/733876789792866345.svg)](https://top.gg/bot/733876789792866345)
 [![Discord Bots](https://top.gg/api/widget/servers/733876789792866345.svg)](https://top.gg/bot/733876789792866345)
 
-![Nekoi-Bot-Image](https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif)
 
  ### Information
 - This is A Beta Version
