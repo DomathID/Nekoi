@@ -1,4 +1,6 @@
 { 
 "prefix" : "n!",
 "footer" : "Nekoi Bot",
+"color": "#FFFFFF",
+"ownerID": "your discord id"
 }
