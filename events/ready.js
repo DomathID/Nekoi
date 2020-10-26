@@ -1,22 +1,24 @@
-
-const { prefix } = require("../config.json");
-
-
-
+const { prefix } = require("../config.json")
+module.exports = async (client, args) => {
+  let users = client.users.cache.size;
+  let guild = client.guilds.cache.size;
+  let channel = client.channels.cache.size;
 const activity_list = [
-		["Yahari Ore no Seishun Love Comedy wa Machigatteiru", "STREAMING"],
-		["n!help", "STREAMING"],
-		["Ore no Kanojo to Osananajimi ga Shuraba Sugiru", "STREAMING"],
-		["in Another World", "STREAMING"],
-		["Uzaki-chan wa Asobitai!", "STREAMING"],
-		["in Servers", "STREAMING"]
+		[`${channel} Channels`, "LISTENING",`dnd`],
+		[`${guild} Guilds`, "WATCHING", `dnd`],
+		[`With ${users} User`, "PLAYING", `dnd`]
 	];
-module.exports = async (client) => {
     try {
         setInterval(() => {
 		const index = Math.floor(Math.random() * activity_list.length);
-		client.user.setActivity(activity_list[index][0], {type: activity_list[index][1], url: "https://domathid.github.io/nekoi"});
-	}, 6000);
+		client.user.setPresence({
+            activity:  {
+                            name: activity_list[index][0], 
+                             type: activity_list[index][1],
+         },
+          status: activity_list[index][2],
+    })
+	}, 7000);
     } catch (e) {
         console.log(e);
     }
