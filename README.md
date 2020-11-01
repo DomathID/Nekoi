@@ -25,3 +25,5 @@ Nekoi is a bot that is designed with simple and easy to understand, easy to use 
 
 ### Command Help
 - n!help
+### Contributing
+Contributing is very open to anyone, if you want to make a contribution with this repo please fork this repo and pull it with a description of what you added
