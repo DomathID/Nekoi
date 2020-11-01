@@ -18,6 +18,9 @@
     "mongoose": "^5.9.7",
     "node-fetch": "^2.6.0",
     "random-puppy": "^1.1.0",
+    "ms": "^2.1.2",
+    "discord-giveaways": "^4.2.1",
+    "quick.db": "^7.1.2"
     "valorant": "0.0.3"
   },
   "devDependencies": {},
@@ -30,7 +33,8 @@
   },
   "keywords": [
     "discord bot",
-    "discord",
+    "discord bot nodejs",
+    "discordjs",
     "mongo"
   ],
   "author": "DomathID",
