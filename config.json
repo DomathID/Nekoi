@@ -2,5 +2,7 @@
 "prefix" : "n!",
 "footer" : "Nekoi Bot",
 "color": "#FFFFFF",
+"hostedBy": "true",
+"everyoneMention": "true",
 "ownerID": "your discord id"
 }
