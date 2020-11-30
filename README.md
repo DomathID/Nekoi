@@ -8,10 +8,11 @@ Nekoi is a bot that is designed with simple and easy to understand, easy to use 
 <a href="https://github.com/domathid"><img src="https://img.shields.io/badge/language-JS-blue"></a>
 [![Discord Bots](https://top.gg/api/widget/status/733876789792866345.svg)](https://top.gg/bot/733876789792866345)
 [![Discord Bots](https://top.gg/api/widget/lib/733876789792866345.svg)](https://top.gg/bot/733876789792866345)
-[![Discord Bots](https://top.gg/api/widget/servers/733876789792866345.svg)](https://top.gg/bot/733876789792866345)
+[![Discord Bots](https://top.gg/api/widget/owner/733876789792866345.svg)](https://top.gg/bot/733876789792866345)
 
 
  ### Information
+ 
 - This is A Beta Version
 - This Bot just For Fun
 - Manage Server 
