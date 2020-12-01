@@ -1,8 +1,8 @@
 { 
-"prefix" : "n!",
-"footer" : "Nekoi Bot",
-"color": "#FFFFFF",
-"hostedBy": "true",
-"everyoneMention": "true",
-"ownerID": "your discord id"
+  "prefix" : "n! { 
+	"prefix" : "n!",
+	"trackergg" : "",
+	"color" : "#FFD200",
+	"footer" : "Nekoi Bot",
+	"ownerID" : ""
 }
