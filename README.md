@@ -25,6 +25,7 @@ Nekoi is a bot that is designed with simple and easy to understand, easy to use 
 - run `node index.js`
 
 ### Command Help
-- n!help
+- n!help or Custom
+- change prefix n!prefix N! 
 ### Contributing
 Contributing is very open to anyone, if you want to make a contribution with this repo please fork this repo and pull it with a description of what you added
