@@ -10,7 +10,7 @@
     "canvas": "^2.6.1",
     "chalk": "^4.0.0",
     "cheerio": "^1.0.0-rc.3",
-    "discord.js": "^12.1.1",
+    "discord.js": "^13.0.0",
     "figlet": "^1.4.0",
     "fortnite": "^4.3.2",
     "got": "^11.6.0",
