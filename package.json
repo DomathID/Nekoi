@@ -13,7 +13,7 @@
     "discord.js": "^13.0.0",
     "figlet": "^1.4.0",
     "fortnite": "^4.3.2",
-    "got": "^11.6.0",
+    "got": "^12.0.0",
     "moment": "^2.24.0",
     "mongoose": "^6.0.3",
     "node-fetch": "^3.0.0",
