@@ -8,7 +8,7 @@
     "apexlegendsjs": "^2.0.0",
     "axios": "^0.27.2",
     "canvas": "^2.6.1",
-    "chalk": "^4.0.0",
+    "chalk": "^5.0.1",
     "cheerio": "^1.0.0-rc.3",
     "discord.js": "^14.0.3",
     "figlet": "^1.4.0",
