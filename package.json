@@ -19,7 +19,7 @@
     "node-fetch": "^3.0.0",
     "random-puppy": "^1.1.0",
     "ms": "^2.1.2",
-    "discord-giveaways": "^5.0.0",
+    "discord-giveaways": "^6.0.0",
     "quick.db": "^9.0.2",
     "discord.js-commando": "^0.12.0",
     "valorant": "0.0.3"
